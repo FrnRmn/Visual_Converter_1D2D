@@ -1,0 +1,39 @@
+/* .entry {
+    height: 5em;; 
+}
+*/
+.clicked{
+    background:rgb(111, 163, 206);
+}
+
+td:hover{
+    background:rgb(99, 119, 148);
+}
+
+td {
+    background:rgb(186, 205, 221);
+    
+}
+
+body {
+    background:rgb(230, 235, 236)
+}
+
+#matrix_table {
+    table-layout:fixed;
+    width: 60vmax;
+    height: 80vmin;
+}
+
+#matrix_table td {
+    border: 0.5vmin solid rgb(230, 235, 236);
+}
+
+#vector_table {
+    table-layout:fixed;
+    width:80vw
+}
+
+/* #vector_table .clicked {
+    width:3vmin
+} */
